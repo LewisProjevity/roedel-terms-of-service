@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roedel Terms of Service</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; padding: 40px; max-width: 850px; margin: auto; color: #333; background-color: #f4f7f9; }
+        .container { background: #fff; padding: 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+        h1 { color: #000; border-bottom: 2px solid #eee; padding-bottom: 15px; margin-bottom: 30px; }
+        h2 { color: #2c3e50; margin-top: 30px; border-left: 4px solid #94eb5c; padding-left: 15px; font-size: 1.3rem; }
+        h3 { color: #4a5568; font-size: 1.1rem; margin-top: 20px; text-decoration: underline; }
+        p, li { font-size: 16px; margin-bottom: 12px; }
+        ul { padding-left: 20px; margin-bottom: 20px; }
+        strong { color: #000; }
+        .highlight-box { background: #f0fff4; border: 1px solid #c6f6d5; padding: 20px; border-radius: 8px; margin: 20px 0; }
+        .footer { margin-top: 60px; padding-top: 20px; border-top: 1px solid #eee; font-size: 14px; color: #777; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms of Service</h1>
+        <p><strong>Last updated: April 26, 2026</strong></p>
 
+        <h2>1. About Roedel</h2>
+        <p>Roedel is a product of Projevity Pty Ltd (ACN 696 573 154). References to "Roedel", "we", "us", or "our" in these Terms refer to Projevity Pty Ltd and its Roedel platform.</p>
+
+        <h2>2. Age Requirement</h2>
+        <p>Roedel is intended for use by individuals 18 years of age or older. By using this app, you represent and warrant that you meet this age requirement. If you are under 18, you may not create an account or use the service.</p>
+
+        <h2>3. Acceptance of Terms</h2>
+        <p>By creating an account or using Roedel, you agree to be bound by these Terms of Service. If you do not agree, do not use the app.</p>
+
+        <h2>4. Description of Service</h2>
+        <p>Roedel is a social nutrition-tracking and lifestyle platform that allows users to log meals, track macronutrients, share meal posts, join groups, participate in challenges, and interact with Coach Mando (an AI-powered nutrition coach). The service is provided "as is" and may change at any time.</p>
+        <p>Roedel is a lifestyle tool designed to support general wellness awareness. It is not a medical device, clinical tool, or substitute for professional healthcare.</p>
+
+        <div class="highlight-box">
+            <h2>5. Health & Clinical Disclaimer</h2>
+            <p>Roedel is not a medical app. Projevity Pty Ltd is not a healthcare provider. Roedel and Coach Mando (an AI-powered coach) provide informational guidance related to nutrition and fitness. This information is not medical advice and should not replace consultation with a qualified healthcare professional.</p>
+            <p>Coach Mando provides general fitness and nutrition guidance only. It does not diagnose, treat, or prevent any medical condition. Users should consult healthcare professionals for any medical concerns.</p>
+            <p>Nutritional data, calorie estimates, macro breakdowns, Nutri-Scores, and all other health-related information provided within the app are approximations and should not be used as a substitute for professional medical guidance, diagnosis, or treatment.</p>
+            <p>Always consult a qualified healthcare professional before making significant changes to your diet or exercise routine, especially if you have pre-existing health conditions, allergies, or dietary restrictions.</p>
+            
+            <p><strong>Professional Boundary:</strong> While the founder of Projevity Pty Ltd holds professional health qualifications (Physiotherapy/Exercise Physiology), the use of Roedel does NOT establish a clinician-patient relationship. All content within the app is for general informational and lifestyle purposes only. You agree to indemnify, defend, and hold harmless Roedel, its creators, and Projevity Pty Ltd from any claims arising from your reliance on AI-generated data, nutritional estimates, or health outcomes.</p>
+            
+            <h3>Calculators & Estimates:</h3>
+            <p>Tools such as the Body Fat % calculator, TDEE estimates, and Macro goals are based on standardised mathematical formulas (e.g., U.S. Navy Method, Mifflin-St Jeor). These are approximations for lifestyle awareness and are not clinical diagnostic measurements. Results may vary based on individual factors including hydration, lighting conditions, and measurement accuracy.</p>
+            <p>Projevity Pty Ltd accepts no liability for individual health outcomes arising from the use of Roedel or any information provided by the platform, including Coach Mando.</p>
+        </div>
+
+        <h2>6. User Accounts</h2>
+        <p>You are responsible for maintaining the confidentiality of your account credentials. You must provide accurate information during registration. You may not impersonate another person or create multiple accounts for abusive purposes.</p>
+
+        <h2>7. User Generated Content</h2>
+        <p>You retain ownership of all content you create and post on Roedel. By posting content, you grant Roedel a non-exclusive, royalty-free, worldwide license to display, reproduce, and distribute your content within the app for the purpose of operating and improving the platform.</p>
+        <p>Roedel reserves the right to review, moderate, and remove any content that violates these Terms or community guidelines. You must not post content that promotes eating disorders or dangerous dietary practices.</p>
+
+        <h2>8. Data Use for AI</h2>
+        <p>Roedel may analyse user nutrition data, activity data, calorie expenditure, sleep data, and macro adherence to provide personalised insights and AI-generated coaching through Coach Mando. This analysis is used solely for the purpose of delivering personalised coaching insights within the app.</p>
+
+        <h2>9. Third-Party Integrations</h2>
+        <p>Roedel may allow users to connect external health and fitness services (Apple Health, Garmin, etc.). When you connect an integration, Roedel only imports minimal health metrics with your permission. You may disconnect integrations at any time.</p>
+        <p><strong>Projevity Pty Ltd is not liable for the actions, data accuracy, or privacy policies of third-party integrations. Use of these integrations is at the user's own risk.</strong></p>
+
+        <h2>10. Nutritional Data Accuracy</h2>
+        <p>Nutritional information is sourced from third-party databases and AI estimates. Roedel does not guarantee the correctness of any nutritional data. Users should verify critical nutritional information independently.</p>
+        <h3>Product Ratings and AI Commentary:</h3>
+        <p>Ratings (e.g., Flash Cards, Nutri-Scores) and commentary provided by Coach Mando are automated algorithmic interpretations of available data. These represent subjective "lifestyle grades" and not objective laboratory facts. Projevity Pty Ltd does not guarantee the accuracy of these critiques and is not liable for commercial impact on third-party products.</p>
+
+        <h2>11. Advertising</h2>
+        <p>Roedel may display advertisements. You may control whether you receive personalised or contextual advertisements through your account preferences. Advertisements will never appear inside meal logging screens.</p>
+
+        <h2>12. Prohibited Conduct</h2>
+        <p>You agree not to: use the app for any unlawful purpose; harass, bully, or intimidate other users; attempt to reverse-engineer the app; or promote eating disorders.</p>
+
+        <h2>13. Account Deletion</h2>
+        <p>You may delete your account at any time through the app settings. Account deletion will permanently remove your data within 30 days.</p>
+
+        <h2>14. Limitation of Liability</h2>
+        <p>To the maximum extent permitted by law, Projevity Pty Ltd shall not be liable for any indirect, incidental, or consequential damages arising from your use of Roedel, including but not limited to health outcomes from following nutritional information or AI coaching suggestions.</p>
+
+        <h2>15. Indemnification</h2>
+        <p><strong>You agree to indemnify, defend, and hold harmless Projevity Pty Ltd, its directors, and third-party partners from any claims, losses, or damages (including legal fees) arising from your use of the app, your violation of these Terms, or your reliance on Coach Mando's AI-generated insights. This includes any physical health outcomes or commercial reliance on app-generated data.</strong></p>
+
+        <h2>16. Governing Law & Jurisdiction</h2>
+        <p>These Terms are governed by the laws of <strong>New South Wales, Australia</strong>. You agree that any legal proceedings shall be conducted within the jurisdiction of New South Wales, Australia.</p>
+
+        <h2>17. Dispute Resolution</h2>
+        <p>Any disputes must first be attempted to be resolved via informal mediation between the parties for a period of at least 30 days before pursuing legal action.</p>
+
+        <h2>18. Third-Party Marketplaces</h2>
+        <p>Your use of Roedel is subject to the terms of the Apple App Store or Google Play Store. Projevity Pty Ltd is solely responsible for the app content, not the marketplace providers.</p>
+
+        <h2>19. Changes to Terms</h2>
+        <p>We may update these terms at any time. Continued use of the app after changes constitutes acceptance of the new terms.</p>
+
+        <div class="footer">
+            <p>© 2026 Projevity Pty Ltd. All Rights Reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
